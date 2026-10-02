@@ -1,0 +1,96 @@
+{
+ "seed_tasks": 20261001,
+ "seed_inference": 42,
+ "models": {
+  "local": "ollama qwen2.5:3b-instruct (Q4_K_M), on-device, Apple M1 Pro GPU (Metal)",
+  "edge": "ollama qwen2.5:7b-instruct (Q4_K_M), emulated LAN edge server (same physical machine, netem path qos-rlan)",
+  "cloud": "OpenRouter qwen/qwen-2.5-72b-instruct, provider pinned, allow_fallbacks=false, real Internet path via qos-rwan"
+ },
+ "max_tokens": {
+  "qa": 64,
+  "math": 512,
+  "code": 512,
+  "long": 768
+ },
+ "prices_usd_per_mtok": {
+  "local": [
+   0,
+   0
+  ],
+  "edge": [
+   0,
+   0
+  ],
+  "cloud": [
+   0.36,
+   0.4
+  ]
+ },
+ "profiles_emulated": {
+  "base": {
+   "cloud": {
+    "rtt_ms": 0,
+    "down_mbit": 0,
+    "up_mbit": 0
+   }
+  },
+  "broadband": {
+   "cloud": {
+    "rtt_ms": 10,
+    "down_mbit": 100,
+    "up_mbit": 20
+   }
+  },
+  "moderate": {
+   "cloud": {
+    "rtt_ms": 75,
+    "down_mbit": 20,
+    "up_mbit": 5
+   }
+  },
+  "high_latency": {
+   "cloud": {
+    "rtt_ms": 250,
+    "down_mbit": 10,
+    "up_mbit": 2
+   }
+  },
+  "constrained": {
+   "cloud": {
+    "rtt_ms": 100,
+    "down_mbit": 1,
+    "up_mbit": 0.5
+   }
+  },
+  "degraded": {
+   "cloud": {
+    "rtt_ms": 150,
+    "down_mbit": 0.128,
+    "up_mbit": 0.064
+   }
+  }
+ },
+ "edge_path_emulated": {
+  "rtt_ms": 0,
+  "down_mbit": 0,
+  "up_mbit": 0
+ },
+ "sla_tau_L_s": {
+  "qa": 2,
+  "math": 10,
+  "code": 10,
+  "long": 30
+ },
+ "tau_Q_factor": 0.9,
+ "utility": {
+  "lambda_L": 1.0,
+  "lambda_C": 0.0,
+  "cost_ref_usd": 0.001
+ },
+ "static_rtt_threshold_s": 0.1,
+ "notes": {
+  "rtt_ms": "added to the measured base RTT of the path",
+  "mbit": "0 means no rate limit",
+  "decisions_fixed_at": "2026-10-01T09:00+03:00, before any cloud request was executed"
+ }
+}

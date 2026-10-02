@@ -1,0 +1,9 @@
+Hardware        Apple MacBook Pro (MacBookPro18,3), Apple M1 Pro, 8 cores (6 performance + 2 efficiency), 16 GB
+OS              macOS 14.5 (23F79), Darwin 23.5.0
+Ollama          0.34.3, Metal GPU
+Local model     qwen2.5:3b-instruct, 3.1B, Q4_K_M, digest 357c53fb659c5076de1d65ccb0b397446227b71a42be9d1603d46168015c9e4b
+Edge model      qwen2.5:7b-instruct, 7.6B, Q4_K_M, digest 845dbda0ea48ed749caafd9e6037047aa19acfcfd82e704d7ca97d631a0b697e
+Cloud model     qwen/qwen-2.5-72b-instruct on OpenRouter, provider DeepInfra (FP8), fallbacks disabled
+Container VM    Colima (aarch64, 2 CPUs, 2 GiB), Docker 29.2.1, Linux 6.8.0-100-generic, iproute2 6.15.0
+Python          3.11.5 (host), 3.12 (containers)
+Measurement     1-2 October 2026 (Europe/Kyiv)

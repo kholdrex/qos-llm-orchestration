@@ -1,0 +1,40 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "qos-orchestration"
+version = "1.0.0"
+description = "QoS-aware selection of local, edge and cloud LLM execution targets: latency model, routing policies and a netem testbed"
+readme = "README.md"
+license = { text = "MIT" }
+authors = [{ name = "Oleksandr Kholodniak" }]
+requires-python = ">=3.11"
+dependencies = [
+    "httpx==0.28.1",
+    "numpy==2.4.6",
+    "matplotlib==3.11.2",
+    "nltk==3.9.1",
+    "langdetect==1.0.9",
+    "immutabledict==4.2.1",
+    "packaging>=23",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "ruff>=0.6"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+qos_orchestration = ["sandbox_runner.py"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 120
+extend-exclude = ["src/qos_orchestration/ifeval"]
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "UP"]

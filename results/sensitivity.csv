@@ -1,0 +1,21 @@
+variant,profile,quality,lat_p50_s,lat_p95_s,sla_viol_pct,q_viol_pct,cost_per_1k_usd,local_pct,edge_pct,cloud_pct
+reference,moderate,0.665,5.32,36.98,22.0,17.0,0.0854,17,4,79
+RTT estimate x0.5,moderate,0.665,5.32,36.98,22.0,17.0,0.0854,17,4,79
+RTT estimate x2.0,moderate,0.643,5.06,35.7,21.0,20.0,0.0816,20,4,76
+decode time per token x0.75,moderate,0.675,6.43,37.5,26.0,12.0,0.0918,12,4,84
+decode time per token x1.33,moderate,0.613,4.36,15.33,11.0,43.0,0.0389,43,4,53
+tau_Q factor 0.8,moderate,0.622,5.32,33.1,21.0,7.0,0.0613,15,27,58
+tau_Q factor 1.0,moderate,0.695,5.32,36.98,22.0,18.0,0.0907,18,0,82
+without service-time telemetry,moderate,0.647,4.81,48.51,29.0,12.0,0.1009,12,4,84
+reference,high_latency,0.643,5.24,35.87,22.0,20.0,0.0816,20,4,76
+RTT estimate x0.5,high_latency,0.655,5.24,37.16,23.0,18.0,0.0845,18,4,78
+RTT estimate x2.0,high_latency,0.643,5.24,35.87,22.0,21.0,0.0809,21,4,75
+decode time per token x0.75,high_latency,0.675,6.61,37.68,27.0,12.0,0.0918,12,4,84
+decode time per token x1.33,high_latency,0.613,4.45,15.34,12.0,43.0,0.0389,43,4,53
+tau_Q factor 0.8,high_latency,0.622,5.5,33.27,22.0,7.0,0.0613,15,27,58
+tau_Q factor 1.0,high_latency,0.673,5.24,35.87,22.0,21.0,0.0869,21,0,79
+without service-time telemetry,high_latency,0.642,4.81,48.69,29.0,19.0,0.09,19,4,77
+reference,degraded,0.643,5.3,35.89,22.0,20.0,0.0816,20,4,76
+without bandwidth term,degraded,0.648,5.3,35.89,22.0,19.0,0.0823,19,4,77
+"edge queue 5 s, visible",moderate + edge queue,0.695,5.32,36.98,22.0,18.0,0.0907,18,0,82
+"edge queue 5 s, not visible",moderate + edge queue,0.665,5.32,36.98,23.0,17.0,0.0854,17,4,79

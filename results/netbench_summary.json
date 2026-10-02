@@ -1,0 +1,21 @@
+{
+ "base_rtt_ms": 1.5373160131275654,
+ "cells": 240,
+ "repetitions": 5,
+ "mape_pct": {
+  "simple_warm": 10.37177394917527,
+  "simple_new": 30.099052277245548,
+  "slowstart_warm": 97.24937533024105,
+  "slowstart_new": 16.377651491507358
+ },
+ "bias_pct": {
+  "simple_warm": -4.949167597385606,
+  "simple_new": -24.900523397359073,
+  "slowstart_warm": 88.72747332715966,
+  "slowstart_new": 0.7072942545261893
+ },
+ "combined_mape_pct": 13.374712720341314,
+ "combined_median_ape_pct": 6.709383061004524,
+ "combined_mae_ms": 57.85284968421505,
+ "combined_p90_ae_ms": 194.89144418090575
+}

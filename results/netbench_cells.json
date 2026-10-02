@@ -1,0 +1,2402 @@
+[
+ {
+  "rtt_ms": 100,
+  "rate_mbit": 0.5,
+  "s_up": 1000,
+  "s_down": 4000,
+  "keepalive": true,
+  "measured_s": 0.2003011810593307,
+  "simple_s": 0.18633731601312759,
+  "slowstart_s": 0.18633731601312759
+ },
+ {
+  "rtt_ms": 100,
+  "rate_mbit": 0.5,
+  "s_up": 1000,
+  "s_down": 4000,
+  "keepalive": false,
+  "measured_s": 0.30405339505523443,
+  "simple_s": 0.28787463202625513,
+  "slowstart_s": 0.28787463202625513
+ },
+ {
+  "rtt_ms": 100,
+  "rate_mbit": 0.5,
+  "s_up": 16000,
+  "s_down": 16000,
+  "keepalive": true,
+  "measured_s": 0.7065637039486319,
+  "simple_s": 0.6183373160131276,
+  "slowstart_s": 0.6183373160131276
+ },
+ {
+  "rtt_ms": 100,
+  "rate_mbit": 0.5,
+  "s_up": 16000,
+  "s_down": 16000,
+  "keepalive": false,
+  "measured_s": 0.8567046909593046,
+  "simple_s": 0.7198746320262552,
+  "slowstart_s": 0.7198746320262552
+ },
+ {
+  "rtt_ms": 100,
+  "rate_mbit": 0.5,
+  "s_up": 128000,
+  "s_down": 32000,
+  "keepalive": true,
+  "measured_s": 2.833578099962324,
+  "simple_s": 2.666337316013127,
+  "slowstart_s": 2.666337316013127
+ },
+ {
+  "rtt_ms": 100,
+  "rate_mbit": 0.5,
+  "s_up": 128000,
+  "s_down": 32000,
+  "keepalive": false,
+  "measured_s": 2.907214140985161,
+  "simple_s": 2.7678746320262553,
+  "slowstart_s": 2.7678746320262553
+ },
+ {
+  "rtt_ms": 100,
+  "rate_mbit": 0.5,
+  "s_up": 2000,
+  "s_down": 256000,
+  "keepalive": true,
+  "measured_s": 4.441880809143186,
+  "simple_s": 4.234337316013128,
+  "slowstart_s": 4.234337316013128
+ },
+ {
+  "rtt_ms": 100,
+  "rate_mbit": 0.5,
+  "s_up": 2000,
+  "s_down": 256000,
+  "keepalive": false,
+  "measured_s": 4.629962689010426,
+  "simple_s": 4.335874632026255,
+  "slowstart_s": 4.335874632026255
+ },
+ {
+  "rtt_ms": 20,
+  "rate_mbit": 0.5,
+  "s_up": 1000,
+  "s_down": 4000,
+  "keepalive": true,
+  "measured_s": 0.11765265697613358,
+  "simple_s": 0.10633731601312757,
+  "slowstart_s": 0.10633731601312757
+ },
+ {
+  "rtt_ms": 20,
+  "rate_mbit": 0.5,
+  "s_up": 1000,
+  "s_down": 4000,
+  "keepalive": false,
+  "measured_s": 0.1447156029753387,
+  "simple_s": 0.12787463202625513,
+  "slowstart_s": 0.12787463202625513
+ },
+ {
+  "rtt_ms": 20,
+  "rate_mbit": 0.5,
+  "s_up": 16000,
+  "s_down": 16000,
+  "keepalive": true,
+  "measured_s": 0.5961660090833902,
+  "simple_s": 0.5383373160131276,
+  "slowstart_s": 0.5383373160131276
+ },
+ {
+  "rtt_ms": 20,
+  "rate_mbit": 0.5,
+  "s_up": 16000,
+  "s_down": 16000,
+  "keepalive": false,
+  "measured_s": 0.6304980569984764,
+  "simple_s": 0.5598746320262551,
+  "slowstart_s": 0.5598746320262551
+ },
+ {
+  "rtt_ms": 20,
+  "rate_mbit": 0.5,
+  "s_up": 128000,
+  "s_down": 32000,
+  "keepalive": true,
+  "measured_s": 2.735343555919826,
+  "simple_s": 2.586337316013127,
+  "slowstart_s": 2.586337316013127
+ },
+ {
+  "rtt_ms": 20,
+  "rate_mbit": 0.5,
+  "s_up": 128000,
+  "s_down": 32000,
+  "keepalive": false,
+  "measured_s": 2.795883870217949,
+  "simple_s": 2.607874632026255,
+  "slowstart_s": 2.607874632026255
+ },
+ {
+  "rtt_ms": 20,
+  "rate_mbit": 0.5,
+  "s_up": 2000,
+  "s_down": 256000,
+  "keepalive": true,
+  "measured_s": 4.365337565075606,
+  "simple_s": 4.154337316013128,
+  "slowstart_s": 4.154337316013128
+ },
+ {
+  "rtt_ms": 20,
+  "rate_mbit": 0.5,
+  "s_up": 2000,
+  "s_down": 256000,
+  "keepalive": false,
+  "measured_s": 4.483531216159463,
+  "simple_s": 4.175874632026255,
+  "slowstart_s": 4.175874632026255
+ },
+ {
+  "rtt_ms": 50,
+  "rate_mbit": 2,
+  "s_up": 1000,
+  "s_down": 4000,
+  "keepalive": true,
+  "measured_s": 0.07638330617919564,
+  "simple_s": 0.07273731601312756,
+  "slowstart_s": 0.07273731601312756
+ },
+ {
+  "rtt_ms": 50,
+  "rate_mbit": 2,
+  "s_up": 1000,
+  "s_down": 4000,
+  "keepalive": false,
+  "measured_s": 0.13336367392912507,
+  "simple_s": 0.12427463202625513,
+  "slowstart_s": 0.12427463202625513
+ },
+ {
+  "rtt_ms": 50,
+  "rate_mbit": 2,
+  "s_up": 16000,
+  "s_down": 16000,
+  "keepalive": true,
+  "measured_s": 0.24417317402549088,
+  "simple_s": 0.1807373160131276,
+  "slowstart_s": 0.1807373160131276
+ },
+ {
+  "rtt_ms": 50,
+  "rate_mbit": 2,
+  "s_up": 16000,
+  "s_down": 16000,
+  "keepalive": false,
+  "measured_s": 0.29723237198777497,
+  "simple_s": 0.23227463202625515,
+  "slowstart_s": 0.23227463202625515
+ },
+ {
+  "rtt_ms": 50,
+  "rate_mbit": 2,
+  "s_up": 128000,
+  "s_down": 32000,
+  "keepalive": true,
+  "measured_s": 0.7257878149393946,
+  "simple_s": 0.6927373160131276,
+  "slowstart_s": 0.6927373160131276
+ },
+ {
+  "rtt_ms": 50,
+  "rate_mbit": 2,
+  "s_up": 128000,
+  "s_down": 32000,
+  "keepalive": false,
+  "measured_s": 0.8318160870112479,
+  "simple_s": 0.744274632026255,
+  "slowstart_s": 0.744274632026255
+ },
+ {
+  "rtt_ms": 50,
+  "rate_mbit": 2,
+  "s_up": 2000,
+  "s_down": 256000,
+  "keepalive": true,
+  "measured_s": 1.1610621579457074,
+  "simple_s": 1.0847373160131275,
+  "slowstart_s": 1.0847373160131275
+ },
+ {
+  "rtt_ms": 50,
+  "rate_mbit": 2,
+  "s_up": 2000,
+  "s_down": 256000,
+  "keepalive": false,
+  "measured_s": 1.2394629418849945,
+  "simple_s": 1.1362746320262551,
+  "slowstart_s": 1.1362746320262551
+ },
+ {
+  "rtt_ms": 50,
+  "rate_mbit": 10,
+  "s_up": 1000,
+  "s_down": 4000,
+  "keepalive": true,
+  "measured_s": 0.05835360195487738,
+  "simple_s": 0.05577731601312756,
+  "slowstart_s": 0.05577731601312756
+ },
+ {
+  "rtt_ms": 50,
+  "rate_mbit": 10,
+  "s_up": 1000,
+  "s_down": 4000,
+  "keepalive": false,
+  "measured_s": 0.11367627303116024,
+  "simple_s": 0.10731463202625514,
+  "slowstart_s": 0.10731463202625514
+ },
+ {
+  "rtt_ms": 50,
+  "rate_mbit": 10,
+  "s_up": 16000,
+  "s_down": 16000,
+  "keepalive": true,
+  "measured_s": 0.08117049792781472,
+  "simple_s": 0.07737731601312757,
+  "slowstart_s": 0.15728394803938273
+ },
+ {
+  "rtt_ms": 50,
+  "rate_mbit": 10,
+  "s_up": 16000,
+  "s_down": 16000,
+  "keepalive": false,
+  "measured_s": 0.23267108504660428,
+  "simple_s": 0.12891463202625514,
+  "slowstart_s": 0.20882126405251028
+ },
+ {
+  "rtt_ms": 50,
+  "rate_mbit": 10,
+  "s_up": 128000,
+  "s_down": 32000,
+  "keepalive": true,
+  "measured_s": 0.1878411779180169,
+  "simple_s": 0.17977731601312755,
+  "slowstart_s": 0.29325458006563787
+ },
+ {
+  "rtt_ms": 50,
+  "rate_mbit": 10,
+  "s_up": 128000,
+  "s_down": 32000,
+  "keepalive": false,
+  "measured_s": 0.3785934690386057,
+  "simple_s": 0.23131463202625513,
+  "slowstart_s": 0.34479189607876537
+ },
+ {
+  "rtt_ms": 50,
+  "rate_mbit": 10,
+  "s_up": 2000,
+  "s_down": 256000,
+  "keepalive": true,
+  "measured_s": 0.37138770800083876,
+  "simple_s": 0.25817731601312754,
+  "slowstart_s": 0.33170126405251027
+ },
+ {
+  "rtt_ms": 50,
+  "rate_mbit": 10,
+  "s_up": 2000,
+  "s_down": 256000,
+  "keepalive": false,
+  "measured_s": 0.45368510391563177,
+  "simple_s": 0.30971463202625515,
+  "slowstart_s": 0.3832385800656378
+ },
+ {
+  "rtt_ms": 200,
+  "rate_mbit": 10,
+  "s_up": 1000,
+  "s_down": 4000,
+  "keepalive": true,
+  "measured_s": 0.20766501501202583,
+  "simple_s": 0.20577731601312757,
+  "slowstart_s": 0.20577731601312757
+ },
+ {
+  "rtt_ms": 200,
+  "rate_mbit": 10,
+  "s_up": 1000,
+  "s_down": 4000,
+  "keepalive": false,
+  "measured_s": 0.4167543158400804,
+  "simple_s": 0.4073146320262551,
+  "slowstart_s": 0.4073146320262551
+ },
+ {
+  "rtt_ms": 200,
+  "rate_mbit": 10,
+  "s_up": 16000,
+  "s_down": 16000,
+  "keepalive": true,
+  "measured_s": 0.23177918815054,
+  "simple_s": 0.22737731601312755,
+  "slowstart_s": 0.6072839480393827
+ },
+ {
+  "rtt_ms": 200,
+  "rate_mbit": 10,
+  "s_up": 16000,
+  "s_down": 16000,
+  "keepalive": false,
+  "measured_s": 0.8302037380635738,
+  "simple_s": 0.4289146320262551,
+  "slowstart_s": 0.8088212640525102
+ },
+ {
+  "rtt_ms": 200,
+  "rate_mbit": 10,
+  "s_up": 128000,
+  "s_down": 32000,
+  "keepalive": true,
+  "measured_s": 0.33829731005243957,
+  "simple_s": 0.3297773160131276,
+  "slowstart_s": 1.0432545800656379
+ },
+ {
+  "rtt_ms": 200,
+  "rate_mbit": 10,
+  "s_up": 128000,
+  "s_down": 32000,
+  "keepalive": false,
+  "measured_s": 1.2953903281595558,
+  "simple_s": 0.5313146320262552,
+  "slowstart_s": 1.2447918960787652
+ },
+ {
+  "rtt_ms": 200,
+  "rate_mbit": 10,
+  "s_up": 2000,
+  "s_down": 256000,
+  "keepalive": true,
+  "measured_s": 0.4211232061497867,
+  "simple_s": 0.40817731601312757,
+  "slowstart_s": 1.0405665800656378
+ },
+ {
+  "rtt_ms": 200,
+  "rate_mbit": 10,
+  "s_up": 2000,
+  "s_down": 256000,
+  "keepalive": false,
+  "measured_s": 1.3177161358762532,
+  "simple_s": 0.6097146320262552,
+  "slowstart_s": 1.2421038960787654
+ },
+ {
+  "rtt_ms": 50,
+  "rate_mbit": 50,
+  "s_up": 1000,
+  "s_down": 4000,
+  "keepalive": true,
+  "measured_s": 0.053245630115270615,
+  "simple_s": 0.05238531601312756,
+  "slowstart_s": 0.05238531601312756
+ },
+ {
+  "rtt_ms": 50,
+  "rate_mbit": 50,
+  "s_up": 1000,
+  "s_down": 4000,
+  "keepalive": false,
+  "measured_s": 0.1110321159940213,
+  "simple_s": 0.10392263202625514,
+  "slowstart_s": 0.10392263202625514
+ },
+ {
+  "rtt_ms": 50,
+  "rate_mbit": 50,
+  "s_up": 16000,
+  "s_down": 16000,
+  "keepalive": true,
+  "measured_s": 0.05949182319454849,
+  "simple_s": 0.056705316013127574,
+  "slowstart_s": 0.1551463480393827
+ },
+ {
+  "rtt_ms": 50,
+  "rate_mbit": 50,
+  "s_up": 16000,
+  "s_down": 16000,
+  "keepalive": false,
+  "measured_s": 0.2199444929137826,
+  "simple_s": 0.10824263202625514,
+  "slowstart_s": 0.2066836640525103
+ },
+ {
+  "rtt_ms": 50,
+  "rate_mbit": 50,
+  "s_up": 128000,
+  "s_down": 32000,
+  "keepalive": true,
+  "measured_s": 0.11957594309933484,
+  "simple_s": 0.07718531601312757,
+  "slowstart_s": 0.2648001800656378
+ },
+ {
+  "rtt_ms": 50,
+  "rate_mbit": 50,
+  "s_up": 128000,
+  "s_down": 32000,
+  "keepalive": false,
+  "measured_s": 0.35069360211491585,
+  "simple_s": 0.12872263202625514,
+  "slowstart_s": 0.31633749607876543
+ },
+ {
+  "rtt_ms": 50,
+  "rate_mbit": 50,
+  "s_up": 2000,
+  "s_down": 256000,
+  "keepalive": true,
+  "measured_s": 0.10037088906392455,
+  "simple_s": 0.09286531601312756,
+  "slowstart_s": 0.26426258006563785
+ },
+ {
+  "rtt_ms": 50,
+  "rate_mbit": 50,
+  "s_up": 2000,
+  "s_down": 256000,
+  "keepalive": false,
+  "measured_s": 0.3482989731710404,
+  "simple_s": 0.14440263202625514,
+  "slowstart_s": 0.3157998960787654
+ },
+ {
+  "rtt_ms": 300,
+  "rate_mbit": 2,
+  "s_up": 1000,
+  "s_down": 4000,
+  "keepalive": true,
+  "measured_s": 0.3299103300087154,
+  "simple_s": 0.32273731601312755,
+  "slowstart_s": 0.32273731601312755
+ },
+ {
+  "rtt_ms": 300,
+  "rate_mbit": 2,
+  "s_up": 1000,
+  "s_down": 4000,
+  "keepalive": false,
+  "measured_s": 0.6346590970642865,
+  "simple_s": 0.6242746320262551,
+  "slowstart_s": 0.6242746320262551
+ },
+ {
+  "rtt_ms": 300,
+  "rate_mbit": 2,
+  "s_up": 16000,
+  "s_down": 16000,
+  "keepalive": true,
+  "measured_s": 0.443476437125355,
+  "simple_s": 0.43073731601312754,
+  "slowstart_s": 0.9179719480393826
+ },
+ {
+  "rtt_ms": 300,
+  "rate_mbit": 2,
+  "s_up": 16000,
+  "s_down": 16000,
+  "keepalive": false,
+  "measured_s": 1.3059219089336693,
+  "simple_s": 0.7322746320262551,
+  "slowstart_s": 1.2195092640525103
+ },
+ {
+  "rtt_ms": 300,
+  "rate_mbit": 2,
+  "s_up": 128000,
+  "s_down": 32000,
+  "keepalive": true,
+  "measured_s": 0.9816293471958488,
+  "simple_s": 0.9427373160131276,
+  "slowstart_s": 1.6855265800656376
+ },
+ {
+  "rtt_ms": 300,
+  "rate_mbit": 2,
+  "s_up": 128000,
+  "s_down": 32000,
+  "keepalive": false,
+  "measured_s": 2.1214842731133103,
+  "simple_s": 1.2442746320262552,
+  "slowstart_s": 1.9870638960787654
+ },
+ {
+  "rtt_ms": 300,
+  "rate_mbit": 2,
+  "s_up": 2000,
+  "s_down": 256000,
+  "keepalive": true,
+  "measured_s": 1.9949608130846173,
+  "simple_s": 1.3347373160131275,
+  "slowstart_s": 1.83390926405251
+ },
+ {
+  "rtt_ms": 300,
+  "rate_mbit": 2,
+  "s_up": 2000,
+  "s_down": 256000,
+  "keepalive": false,
+  "measured_s": 2.4139712499454618,
+  "simple_s": 1.6362746320262551,
+  "slowstart_s": 2.1354465800656377
+ },
+ {
+  "rtt_ms": 20,
+  "rate_mbit": 10,
+  "s_up": 1000,
+  "s_down": 4000,
+  "keepalive": true,
+  "measured_s": 0.027537995018064976,
+  "simple_s": 0.025777316013127567,
+  "slowstart_s": 0.025777316013127567
+ },
+ {
+  "rtt_ms": 20,
+  "rate_mbit": 10,
+  "s_up": 1000,
+  "s_down": 4000,
+  "keepalive": false,
+  "measured_s": 0.050882869865745306,
+  "simple_s": 0.04731463202625513,
+  "slowstart_s": 0.04731463202625513
+ },
+ {
+  "rtt_ms": 20,
+  "rate_mbit": 10,
+  "s_up": 16000,
+  "s_down": 16000,
+  "keepalive": true,
+  "measured_s": 0.05362970777787268,
+  "simple_s": 0.047377316013127564,
+  "slowstart_s": 0.0672839480393827
+ },
+ {
+  "rtt_ms": 20,
+  "rate_mbit": 10,
+  "s_up": 16000,
+  "s_down": 16000,
+  "keepalive": false,
+  "measured_s": 0.11564873298630118,
+  "simple_s": 0.06891463202625513,
+  "slowstart_s": 0.08882126405251026
+ },
+ {
+  "rtt_ms": 20,
+  "rate_mbit": 10,
+  "s_up": 128000,
+  "s_down": 32000,
+  "keepalive": true,
+  "measured_s": 0.15779397985897958,
+  "simple_s": 0.14977731601312758,
+  "slowstart_s": 0.1696839480393827
+ },
+ {
+  "rtt_ms": 20,
+  "rate_mbit": 10,
+  "s_up": 128000,
+  "s_down": 32000,
+  "keepalive": false,
+  "measured_s": 0.21886184415780008,
+  "simple_s": 0.17131463202625513,
+  "slowstart_s": 0.19122126405251028
+ },
+ {
+  "rtt_ms": 20,
+  "rate_mbit": 10,
+  "s_up": 2000,
+  "s_down": 256000,
+  "keepalive": true,
+  "measured_s": 0.286570938071236,
+  "simple_s": 0.22817731601312755,
+  "slowstart_s": 0.23813063202625512
+ },
+ {
+  "rtt_ms": 20,
+  "rate_mbit": 10,
+  "s_up": 2000,
+  "s_down": 256000,
+  "keepalive": false,
+  "measured_s": 0.30979705788195133,
+  "simple_s": 0.24971463202625513,
+  "slowstart_s": 0.2596679480393827
+ },
+ {
+  "rtt_ms": 200,
+  "rate_mbit": 50,
+  "s_up": 1000,
+  "s_down": 4000,
+  "keepalive": true,
+  "measured_s": 0.20756934606470168,
+  "simple_s": 0.20238531601312756,
+  "slowstart_s": 0.20238531601312756
+ },
+ {
+  "rtt_ms": 200,
+  "rate_mbit": 50,
+  "s_up": 1000,
+  "s_down": 4000,
+  "keepalive": false,
+  "measured_s": 0.41595287807285786,
+  "simple_s": 0.40392263202625517,
+  "slowstart_s": 0.40392263202625517
+ },
+ {
+  "rtt_ms": 200,
+  "rate_mbit": 50,
+  "s_up": 16000,
+  "s_down": 16000,
+  "keepalive": true,
+  "measured_s": 0.21049347193911672,
+  "simple_s": 0.20670531601312758,
+  "slowstart_s": 0.6051463480393827
+ },
+ {
+  "rtt_ms": 200,
+  "rate_mbit": 50,
+  "s_up": 16000,
+  "s_down": 16000,
+  "keepalive": false,
+  "measured_s": 0.8266959169413894,
+  "simple_s": 0.4082426320262551,
+  "slowstart_s": 0.8066836640525102
+ },
+ {
+  "rtt_ms": 200,
+  "rate_mbit": 50,
+  "s_up": 128000,
+  "s_down": 32000,
+  "keepalive": true,
+  "measured_s": 0.24970066198147833,
+  "simple_s": 0.22718531601312758,
+  "slowstart_s": 1.0148001800656379
+ },
+ {
+  "rtt_ms": 200,
+  "rate_mbit": 50,
+  "s_up": 128000,
+  "s_down": 32000,
+  "keepalive": false,
+  "measured_s": 1.2439503481145948,
+  "simple_s": 0.42872263202625516,
+  "slowstart_s": 1.2163374960787654
+ },
+ {
+  "rtt_ms": 200,
+  "rate_mbit": 50,
+  "s_up": 2000,
+  "s_down": 256000,
+  "keepalive": true,
+  "measured_s": 0.24786600400693715,
+  "simple_s": 0.24286531601312758,
+  "slowstart_s": 1.014262580065638
+ },
+ {
+  "rtt_ms": 200,
+  "rate_mbit": 50,
+  "s_up": 2000,
+  "s_down": 256000,
+  "keepalive": false,
+  "measured_s": 1.2502049221657217,
+  "simple_s": 0.4444026320262552,
+  "slowstart_s": 1.2157998960787655
+ },
+ {
+  "rtt_ms": 0,
+  "rate_mbit": 0,
+  "s_up": 1000,
+  "s_down": 4000,
+  "keepalive": true,
+  "measured_s": 0.0006549670360982418,
+  "simple_s": 0.0015373160131275654,
+  "slowstart_s": 0.0015373160131275654
+ },
+ {
+  "rtt_ms": 0,
+  "rate_mbit": 0,
+  "s_up": 1000,
+  "s_down": 4000,
+  "keepalive": false,
+  "measured_s": 0.0017607989721000195,
+  "simple_s": 0.0030746320262551308,
+  "slowstart_s": 0.0030746320262551308
+ },
+ {
+  "rtt_ms": 0,
+  "rate_mbit": 0,
+  "s_up": 16000,
+  "s_down": 16000,
+  "keepalive": true,
+  "measured_s": 0.0006891589146107435,
+  "simple_s": 0.0015373160131275654,
+  "slowstart_s": 0.004611948039382696
+ },
+ {
+  "rtt_ms": 0,
+  "rate_mbit": 0,
+  "s_up": 16000,
+  "s_down": 16000,
+  "keepalive": false,
+  "measured_s": 0.001901485025882721,
+  "simple_s": 0.0030746320262551308,
+  "slowstart_s": 0.0061492640525102615
+ },
+ {
+  "rtt_ms": 0,
+  "rate_mbit": 0,
+  "s_up": 128000,
+  "s_down": 32000,
+  "keepalive": true,
+  "measured_s": 0.0012388918548822403,
+  "simple_s": 0.0015373160131275654,
+  "slowstart_s": 0.007686580065637827
+ },
+ {
+  "rtt_ms": 0,
+  "rate_mbit": 0,
+  "s_up": 128000,
+  "s_down": 32000,
+  "keepalive": false,
+  "measured_s": 0.0023097849916666746,
+  "simple_s": 0.0030746320262551308,
+  "slowstart_s": 0.009223896078765392
+ },
+ {
+  "rtt_ms": 0,
+  "rate_mbit": 0,
+  "s_up": 2000,
+  "s_down": 256000,
+  "keepalive": true,
+  "measured_s": 0.0013109869323670864,
+  "simple_s": 0.0015373160131275654,
+  "slowstart_s": 0.007686580065637827
+ },
+ {
+  "rtt_ms": 0,
+  "rate_mbit": 0,
+  "s_up": 2000,
+  "s_down": 256000,
+  "keepalive": false,
+  "measured_s": 0.002155655063688755,
+  "simple_s": 0.0030746320262551308,
+  "slowstart_s": 0.009223896078765392
+ },
+ {
+  "rtt_ms": 50,
+  "rate_mbit": 0,
+  "s_up": 1000,
+  "s_down": 4000,
+  "keepalive": true,
+  "measured_s": 0.0537410001270473,
+  "simple_s": 0.05153731601312757,
+  "slowstart_s": 0.05153731601312757
+ },
+ {
+  "rtt_ms": 50,
+  "rate_mbit": 0,
+  "s_up": 1000,
+  "s_down": 4000,
+  "keepalive": false,
+  "measured_s": 0.109407793963328,
+  "simple_s": 0.10307463202625514,
+  "slowstart_s": 0.10307463202625514
+ },
+ {
+  "rtt_ms": 50,
+  "rate_mbit": 0,
+  "s_up": 16000,
+  "s_down": 16000,
+  "keepalive": true,
+  "measured_s": 0.05809272197075188,
+  "simple_s": 0.05153731601312757,
+  "slowstart_s": 0.15461194803938272
+ },
+ {
+  "rtt_ms": 50,
+  "rate_mbit": 0,
+  "s_up": 16000,
+  "s_down": 16000,
+  "keepalive": false,
+  "measured_s": 0.21712594502605498,
+  "simple_s": 0.10307463202625514,
+  "slowstart_s": 0.20614926405251027
+ },
+ {
+  "rtt_ms": 50,
+  "rate_mbit": 0,
+  "s_up": 128000,
+  "s_down": 32000,
+  "keepalive": true,
+  "measured_s": 0.05883752298541367,
+  "simple_s": 0.05153731601312757,
+  "slowstart_s": 0.2576865800656378
+ },
+ {
+  "rtt_ms": 50,
+  "rate_mbit": 0,
+  "s_up": 128000,
+  "s_down": 32000,
+  "keepalive": false,
+  "measured_s": 0.3594154519960284,
+  "simple_s": 0.10307463202625514,
+  "slowstart_s": 0.3092238960787654
+ },
+ {
+  "rtt_ms": 50,
+  "rate_mbit": 0,
+  "s_up": 2000,
+  "s_down": 256000,
+  "keepalive": true,
+  "measured_s": 0.06332022091373801,
+  "simple_s": 0.05153731601312757,
+  "slowstart_s": 0.2576865800656378
+ },
+ {
+  "rtt_ms": 50,
+  "rate_mbit": 0,
+  "s_up": 2000,
+  "s_down": 256000,
+  "keepalive": false,
+  "measured_s": 0.33210484706796706,
+  "simple_s": 0.10307463202625514,
+  "slowstart_s": 0.30922389607876544
+ },
+ {
+  "rtt_ms": 20,
+  "rate_mbit": 2,
+  "s_up": 1000,
+  "s_down": 4000,
+  "keepalive": true,
+  "measured_s": 0.046972943004220724,
+  "simple_s": 0.042737316013127566,
+  "slowstart_s": 0.042737316013127566
+ },
+ {
+  "rtt_ms": 20,
+  "rate_mbit": 2,
+  "s_up": 1000,
+  "s_down": 4000,
+  "keepalive": false,
+  "measured_s": 0.07837096904404461,
+  "simple_s": 0.06427463202625514,
+  "slowstart_s": 0.06427463202625514
+ },
+ {
+  "rtt_ms": 20,
+  "rate_mbit": 2,
+  "s_up": 16000,
+  "s_down": 16000,
+  "keepalive": true,
+  "measured_s": 0.18988941214047372,
+  "simple_s": 0.15073731601312756,
+  "slowstart_s": 0.15073731601312756
+ },
+ {
+  "rtt_ms": 20,
+  "rate_mbit": 2,
+  "s_up": 16000,
+  "s_down": 16000,
+  "keepalive": false,
+  "measured_s": 0.20040627312846482,
+  "simple_s": 0.17227463202625515,
+  "slowstart_s": 0.17227463202625515
+ },
+ {
+  "rtt_ms": 20,
+  "rate_mbit": 2,
+  "s_up": 128000,
+  "s_down": 32000,
+  "keepalive": true,
+  "measured_s": 0.7429475700482726,
+  "simple_s": 0.6627373160131276,
+  "slowstart_s": 0.6627373160131276
+ },
+ {
+  "rtt_ms": 20,
+  "rate_mbit": 2,
+  "s_up": 128000,
+  "s_down": 32000,
+  "keepalive": false,
+  "measured_s": 0.7731112050823867,
+  "simple_s": 0.6842746320262552,
+  "slowstart_s": 0.6842746320262552
+ },
+ {
+  "rtt_ms": 20,
+  "rate_mbit": 2,
+  "s_up": 2000,
+  "s_down": 256000,
+  "keepalive": true,
+  "measured_s": 1.1249529039487243,
+  "simple_s": 1.0547373160131275,
+  "slowstart_s": 1.0547373160131275
+ },
+ {
+  "rtt_ms": 20,
+  "rate_mbit": 2,
+  "s_up": 2000,
+  "s_down": 256000,
+  "keepalive": false,
+  "measured_s": 1.2277926518581808,
+  "simple_s": 1.076274632026255,
+  "slowstart_s": 1.076274632026255
+ },
+ {
+  "rtt_ms": 0,
+  "rate_mbit": 50,
+  "s_up": 1000,
+  "s_down": 4000,
+  "keepalive": true,
+  "measured_s": 0.0018898609559983015,
+  "simple_s": 0.002385316013127565,
+  "slowstart_s": 0.002385316013127565
+ },
+ {
+  "rtt_ms": 0,
+  "rate_mbit": 50,
+  "s_up": 1000,
+  "s_down": 4000,
+  "keepalive": false,
+  "measured_s": 0.002304767956957221,
+  "simple_s": 0.0039226320262551306,
+  "slowstart_s": 0.0039226320262551306
+ },
+ {
+  "rtt_ms": 0,
+  "rate_mbit": 50,
+  "s_up": 16000,
+  "s_down": 16000,
+  "keepalive": true,
+  "measured_s": 0.009002113016322255,
+  "simple_s": 0.006705316013127564,
+  "slowstart_s": 0.006705316013127564
+ },
+ {
+  "rtt_ms": 0,
+  "rate_mbit": 50,
+  "s_up": 16000,
+  "s_down": 16000,
+  "keepalive": false,
+  "measured_s": 0.006983567029237747,
+  "simple_s": 0.00824263202625513,
+  "slowstart_s": 0.00824263202625513
+ },
+ {
+  "rtt_ms": 0,
+  "rate_mbit": 50,
+  "s_up": 128000,
+  "s_down": 32000,
+  "keepalive": true,
+  "measured_s": 0.03050159616395831,
+  "simple_s": 0.027185316013127566,
+  "slowstart_s": 0.027185316013127566
+ },
+ {
+  "rtt_ms": 0,
+  "rate_mbit": 50,
+  "s_up": 128000,
+  "s_down": 32000,
+  "keepalive": false,
+  "measured_s": 0.030844602035358548,
+  "simple_s": 0.02872263202625513,
+  "slowstart_s": 0.02872263202625513
+ },
+ {
+  "rtt_ms": 0,
+  "rate_mbit": 50,
+  "s_up": 2000,
+  "s_down": 256000,
+  "keepalive": true,
+  "measured_s": 0.04492761311121285,
+  "simple_s": 0.04286531601312756,
+  "slowstart_s": 0.04286531601312756
+ },
+ {
+  "rtt_ms": 0,
+  "rate_mbit": 50,
+  "s_up": 2000,
+  "s_down": 256000,
+  "keepalive": false,
+  "measured_s": 0.0463106669485569,
+  "simple_s": 0.04440263202625513,
+  "slowstart_s": 0.04440263202625513
+ },
+ {
+  "rtt_ms": 0,
+  "rate_mbit": 10,
+  "s_up": 1000,
+  "s_down": 4000,
+  "keepalive": true,
+  "measured_s": 0.005969644989818335,
+  "simple_s": 0.005777316013127565,
+  "slowstart_s": 0.005777316013127565
+ },
+ {
+  "rtt_ms": 0,
+  "rate_mbit": 10,
+  "s_up": 1000,
+  "s_down": 4000,
+  "keepalive": false,
+  "measured_s": 0.006552571197971702,
+  "simple_s": 0.007314632026255131,
+  "slowstart_s": 0.007314632026255131
+ },
+ {
+  "rtt_ms": 0,
+  "rate_mbit": 10,
+  "s_up": 16000,
+  "s_down": 16000,
+  "keepalive": true,
+  "measured_s": 0.03179147792980075,
+  "simple_s": 0.027377316013127564,
+  "slowstart_s": 0.027377316013127564
+ },
+ {
+  "rtt_ms": 0,
+  "rate_mbit": 10,
+  "s_up": 16000,
+  "s_down": 16000,
+  "keepalive": false,
+  "measured_s": 0.030980736948549747,
+  "simple_s": 0.028914632026255133,
+  "slowstart_s": 0.028914632026255133
+ },
+ {
+  "rtt_ms": 0,
+  "rate_mbit": 10,
+  "s_up": 128000,
+  "s_down": 32000,
+  "keepalive": true,
+  "measured_s": 0.14369588298723102,
+  "simple_s": 0.12977731601312756,
+  "slowstart_s": 0.12977731601312756
+ },
+ {
+  "rtt_ms": 0,
+  "rate_mbit": 10,
+  "s_up": 128000,
+  "s_down": 32000,
+  "keepalive": false,
+  "measured_s": 0.14350544195622206,
+  "simple_s": 0.13131463202625512,
+  "slowstart_s": 0.13131463202625512
+ },
+ {
+  "rtt_ms": 0,
+  "rate_mbit": 10,
+  "s_up": 2000,
+  "s_down": 256000,
+  "keepalive": true,
+  "measured_s": 0.22382758907042444,
+  "simple_s": 0.20817731601312756,
+  "slowstart_s": 0.20817731601312756
+ },
+ {
+  "rtt_ms": 0,
+  "rate_mbit": 10,
+  "s_up": 2000,
+  "s_down": 256000,
+  "keepalive": false,
+  "measured_s": 0.23374714818783104,
+  "simple_s": 0.20971463202625512,
+  "slowstart_s": 0.20971463202625512
+ },
+ {
+  "rtt_ms": 0,
+  "rate_mbit": 0.5,
+  "s_up": 1000,
+  "s_down": 4000,
+  "keepalive": true,
+  "measured_s": 0.09750612592324615,
+  "simple_s": 0.08633731601312757,
+  "slowstart_s": 0.08633731601312757
+ },
+ {
+  "rtt_ms": 0,
+  "rate_mbit": 0.5,
+  "s_up": 1000,
+  "s_down": 4000,
+  "keepalive": false,
+  "measured_s": 0.10936343693174422,
+  "simple_s": 0.08787463202625513,
+  "slowstart_s": 0.08787463202625513
+ },
+ {
+  "rtt_ms": 0,
+  "rate_mbit": 0.5,
+  "s_up": 16000,
+  "s_down": 16000,
+  "keepalive": true,
+  "measured_s": 0.5723397568799555,
+  "simple_s": 0.5183373160131276,
+  "slowstart_s": 0.5183373160131276
+ },
+ {
+  "rtt_ms": 0,
+  "rate_mbit": 0.5,
+  "s_up": 16000,
+  "s_down": 16000,
+  "keepalive": false,
+  "measured_s": 0.6084237329196185,
+  "simple_s": 0.5198746320262552,
+  "slowstart_s": 0.5198746320262552
+ },
+ {
+  "rtt_ms": 0,
+  "rate_mbit": 0.5,
+  "s_up": 128000,
+  "s_down": 32000,
+  "keepalive": true,
+  "measured_s": 2.7201165829319507,
+  "simple_s": 2.5663373160131275,
+  "slowstart_s": 2.5663373160131275
+ },
+ {
+  "rtt_ms": 0,
+  "rate_mbit": 0.5,
+  "s_up": 128000,
+  "s_down": 32000,
+  "keepalive": false,
+  "measured_s": 2.7967442870140076,
+  "simple_s": 2.567874632026255,
+  "slowstart_s": 2.567874632026255
+ },
+ {
+  "rtt_ms": 0,
+  "rate_mbit": 0.5,
+  "s_up": 2000,
+  "s_down": 256000,
+  "keepalive": true,
+  "measured_s": 4.3425198930781335,
+  "simple_s": 4.134337316013127,
+  "slowstart_s": 4.134337316013127
+ },
+ {
+  "rtt_ms": 0,
+  "rate_mbit": 0.5,
+  "s_up": 2000,
+  "s_down": 256000,
+  "keepalive": false,
+  "measured_s": 4.4674773761071265,
+  "simple_s": 4.135874632026255,
+  "slowstart_s": 4.135874632026255
+ },
+ {
+  "rtt_ms": 300,
+  "rate_mbit": 50,
+  "s_up": 1000,
+  "s_down": 4000,
+  "keepalive": true,
+  "measured_s": 0.309173523215577,
+  "simple_s": 0.30238531601312757,
+  "slowstart_s": 0.30238531601312757
+ },
+ {
+  "rtt_ms": 300,
+  "rate_mbit": 50,
+  "s_up": 1000,
+  "s_down": 4000,
+  "keepalive": false,
+  "measured_s": 0.6133876338135451,
+  "simple_s": 0.6039226320262551,
+  "slowstart_s": 0.6039226320262551
+ },
+ {
+  "rtt_ms": 300,
+  "rate_mbit": 50,
+  "s_up": 16000,
+  "s_down": 16000,
+  "keepalive": true,
+  "measured_s": 0.30948236188851297,
+  "simple_s": 0.3067053160131275,
+  "slowstart_s": 0.9051463480393827
+ },
+ {
+  "rtt_ms": 300,
+  "rate_mbit": 50,
+  "s_up": 16000,
+  "s_down": 16000,
+  "keepalive": false,
+  "measured_s": 1.2302520158700645,
+  "simple_s": 0.6082426320262552,
+  "slowstart_s": 1.2066836640525103
+ },
+ {
+  "rtt_ms": 300,
+  "rate_mbit": 50,
+  "s_up": 128000,
+  "s_down": 32000,
+  "keepalive": true,
+  "measured_s": 0.33781325607560575,
+  "simple_s": 0.32718531601312756,
+  "slowstart_s": 1.5148001800656377
+ },
+ {
+  "rtt_ms": 300,
+  "rate_mbit": 50,
+  "s_up": 128000,
+  "s_down": 32000,
+  "keepalive": false,
+  "measured_s": 1.8526024089660496,
+  "simple_s": 0.6287226320262551,
+  "slowstart_s": 1.816337496078765
+ },
+ {
+  "rtt_ms": 300,
+  "rate_mbit": 50,
+  "s_up": 2000,
+  "s_down": 256000,
+  "keepalive": true,
+  "measured_s": 0.3476407879497856,
+  "simple_s": 0.3428653160131276,
+  "slowstart_s": 1.5142625800656377
+ },
+ {
+  "rtt_ms": 300,
+  "rate_mbit": 50,
+  "s_up": 2000,
+  "s_down": 256000,
+  "keepalive": false,
+  "measured_s": 1.8614597998093814,
+  "simple_s": 0.6444026320262551,
+  "slowstart_s": 1.8157998960787654
+ },
+ {
+  "rtt_ms": 0,
+  "rate_mbit": 2,
+  "s_up": 1000,
+  "s_down": 4000,
+  "keepalive": true,
+  "measured_s": 0.026768424082547426,
+  "simple_s": 0.022737316013127565,
+  "slowstart_s": 0.022737316013127565
+ },
+ {
+  "rtt_ms": 0,
+  "rate_mbit": 2,
+  "s_up": 1000,
+  "s_down": 4000,
+  "keepalive": false,
+  "measured_s": 0.02757651382125914,
+  "simple_s": 0.02427463202625513,
+  "slowstart_s": 0.02427463202625513
+ },
+ {
+  "rtt_ms": 0,
+  "rate_mbit": 2,
+  "s_up": 16000,
+  "s_down": 16000,
+  "keepalive": true,
+  "measured_s": 0.14720897492952645,
+  "simple_s": 0.13073731601312757,
+  "slowstart_s": 0.13073731601312757
+ },
+ {
+  "rtt_ms": 0,
+  "rate_mbit": 2,
+  "s_up": 16000,
+  "s_down": 16000,
+  "keepalive": false,
+  "measured_s": 0.14973849896341562,
+  "simple_s": 0.13227463202625514,
+  "slowstart_s": 0.13227463202625514
+ },
+ {
+  "rtt_ms": 0,
+  "rate_mbit": 2,
+  "s_up": 128000,
+  "s_down": 32000,
+  "keepalive": true,
+  "measured_s": 0.6923263319768012,
+  "simple_s": 0.6427373160131276,
+  "slowstart_s": 0.6427373160131276
+ },
+ {
+  "rtt_ms": 0,
+  "rate_mbit": 2,
+  "s_up": 128000,
+  "s_down": 32000,
+  "keepalive": false,
+  "measured_s": 0.6897571100853384,
+  "simple_s": 0.6442746320262551,
+  "slowstart_s": 0.6442746320262551
+ },
+ {
+  "rtt_ms": 0,
+  "rate_mbit": 2,
+  "s_up": 2000,
+  "s_down": 256000,
+  "keepalive": true,
+  "measured_s": 1.0941319221165031,
+  "simple_s": 1.0347373160131275,
+  "slowstart_s": 1.0347373160131275
+ },
+ {
+  "rtt_ms": 0,
+  "rate_mbit": 2,
+  "s_up": 2000,
+  "s_down": 256000,
+  "keepalive": false,
+  "measured_s": 1.130517811048776,
+  "simple_s": 1.036274632026255,
+  "slowstart_s": 1.036274632026255
+ },
+ {
+  "rtt_ms": 200,
+  "rate_mbit": 0,
+  "s_up": 1000,
+  "s_down": 4000,
+  "keepalive": true,
+  "measured_s": 0.20683947717770934,
+  "simple_s": 0.20153731601312758,
+  "slowstart_s": 0.20153731601312758
+ },
+ {
+  "rtt_ms": 200,
+  "rate_mbit": 0,
+  "s_up": 1000,
+  "s_down": 4000,
+  "keepalive": false,
+  "measured_s": 0.42702418100088835,
+  "simple_s": 0.40307463202625515,
+  "slowstart_s": 0.40307463202625515
+ },
+ {
+  "rtt_ms": 200,
+  "rate_mbit": 0,
+  "s_up": 16000,
+  "s_down": 16000,
+  "keepalive": true,
+  "measured_s": 0.20648778788745403,
+  "simple_s": 0.20153731601312758,
+  "slowstart_s": 0.6046119480393828
+ },
+ {
+  "rtt_ms": 200,
+  "rate_mbit": 0,
+  "s_up": 16000,
+  "s_down": 16000,
+  "keepalive": false,
+  "measured_s": 0.8274599669966847,
+  "simple_s": 0.40307463202625515,
+  "slowstart_s": 0.8061492640525103
+ },
+ {
+  "rtt_ms": 200,
+  "rate_mbit": 0,
+  "s_up": 128000,
+  "s_down": 32000,
+  "keepalive": true,
+  "measured_s": 0.2320593181066215,
+  "simple_s": 0.20153731601312758,
+  "slowstart_s": 1.0076865800656378
+ },
+ {
+  "rtt_ms": 200,
+  "rate_mbit": 0,
+  "s_up": 128000,
+  "s_down": 32000,
+  "keepalive": false,
+  "measured_s": 1.2396733642090112,
+  "simple_s": 0.40307463202625515,
+  "slowstart_s": 1.2092238960787653
+ },
+ {
+  "rtt_ms": 200,
+  "rate_mbit": 0,
+  "s_up": 2000,
+  "s_down": 256000,
+  "keepalive": true,
+  "measured_s": 0.2069685619790107,
+  "simple_s": 0.20153731601312758,
+  "slowstart_s": 1.0076865800656378
+ },
+ {
+  "rtt_ms": 200,
+  "rate_mbit": 0,
+  "s_up": 2000,
+  "s_down": 256000,
+  "keepalive": false,
+  "measured_s": 1.2317687119357288,
+  "simple_s": 0.40307463202625515,
+  "slowstart_s": 1.2092238960787656
+ },
+ {
+  "rtt_ms": 100,
+  "rate_mbit": 0,
+  "s_up": 1000,
+  "s_down": 4000,
+  "keepalive": true,
+  "measured_s": 0.10882215993478894,
+  "simple_s": 0.10153731601312757,
+  "slowstart_s": 0.10153731601312757
+ },
+ {
+  "rtt_ms": 100,
+  "rate_mbit": 0,
+  "s_up": 1000,
+  "s_down": 4000,
+  "keepalive": false,
+  "measured_s": 0.21049992204643786,
+  "simple_s": 0.20307463202625514,
+  "slowstart_s": 0.20307463202625514
+ },
+ {
+  "rtt_ms": 100,
+  "rate_mbit": 0,
+  "s_up": 16000,
+  "s_down": 16000,
+  "keepalive": true,
+  "measured_s": 0.11408552806824446,
+  "simple_s": 0.10153731601312757,
+  "slowstart_s": 0.30461194803938274
+ },
+ {
+  "rtt_ms": 100,
+  "rate_mbit": 0,
+  "s_up": 16000,
+  "s_down": 16000,
+  "keepalive": false,
+  "measured_s": 0.4217658049892634,
+  "simple_s": 0.20307463202625514,
+  "slowstart_s": 0.4061492640525103
+ },
+ {
+  "rtt_ms": 100,
+  "rate_mbit": 0,
+  "s_up": 128000,
+  "s_down": 32000,
+  "keepalive": true,
+  "measured_s": 0.11198573699221015,
+  "simple_s": 0.10153731601312757,
+  "slowstart_s": 0.5076865800656378
+ },
+ {
+  "rtt_ms": 100,
+  "rate_mbit": 0,
+  "s_up": 128000,
+  "s_down": 32000,
+  "keepalive": false,
+  "measured_s": 0.6397039119619876,
+  "simple_s": 0.20307463202625514,
+  "slowstart_s": 0.6092238960787654
+ },
+ {
+  "rtt_ms": 100,
+  "rate_mbit": 0,
+  "s_up": 2000,
+  "s_down": 256000,
+  "keepalive": true,
+  "measured_s": 0.1096563870087266,
+  "simple_s": 0.10153731601312757,
+  "slowstart_s": 0.5076865800656378
+ },
+ {
+  "rtt_ms": 100,
+  "rate_mbit": 0,
+  "s_up": 2000,
+  "s_down": 256000,
+  "keepalive": false,
+  "measured_s": 0.6487791738472879,
+  "simple_s": 0.20307463202625514,
+  "slowstart_s": 0.6092238960787655
+ },
+ {
+  "rtt_ms": 200,
+  "rate_mbit": 2,
+  "s_up": 1000,
+  "s_down": 4000,
+  "keepalive": true,
+  "measured_s": 0.22916410001926124,
+  "simple_s": 0.22273731601312757,
+  "slowstart_s": 0.22273731601312757
+ },
+ {
+  "rtt_ms": 200,
+  "rate_mbit": 2,
+  "s_up": 1000,
+  "s_down": 4000,
+  "keepalive": false,
+  "measured_s": 0.4351593619212508,
+  "simple_s": 0.42427463202625515,
+  "slowstart_s": 0.42427463202625515
+ },
+ {
+  "rtt_ms": 200,
+  "rate_mbit": 2,
+  "s_up": 16000,
+  "s_down": 16000,
+  "keepalive": true,
+  "measured_s": 0.34081507893279195,
+  "simple_s": 0.33073731601312756,
+  "slowstart_s": 0.6179719480393828
+ },
+ {
+  "rtt_ms": 200,
+  "rate_mbit": 2,
+  "s_up": 16000,
+  "s_down": 16000,
+  "keepalive": false,
+  "measured_s": 0.9092182081658393,
+  "simple_s": 0.5322746320262551,
+  "slowstart_s": 0.8195092640525103
+ },
+ {
+  "rtt_ms": 200,
+  "rate_mbit": 2,
+  "s_up": 128000,
+  "s_down": 32000,
+  "keepalive": true,
+  "measured_s": 0.8757005508523434,
+  "simple_s": 0.8427373160131275,
+  "slowstart_s": 1.2156692640525102
+ },
+ {
+  "rtt_ms": 200,
+  "rate_mbit": 2,
+  "s_up": 128000,
+  "s_down": 32000,
+  "keepalive": false,
+  "measured_s": 1.5359833119437099,
+  "simple_s": 1.044274632026255,
+  "slowstart_s": 1.417206580065638
+ },
+ {
+  "rtt_ms": 200,
+  "rate_mbit": 2,
+  "s_up": 2000,
+  "s_down": 256000,
+  "keepalive": true,
+  "measured_s": 1.3249859330244362,
+  "simple_s": 1.2347373160131276,
+  "slowstart_s": 1.4640519480393825
+ },
+ {
+  "rtt_ms": 200,
+  "rate_mbit": 2,
+  "s_up": 2000,
+  "s_down": 256000,
+  "keepalive": false,
+  "measured_s": 1.8732440872117877,
+  "simple_s": 1.4362746320262552,
+  "slowstart_s": 1.6655892640525103
+ },
+ {
+  "rtt_ms": 20,
+  "rate_mbit": 0,
+  "s_up": 1000,
+  "s_down": 4000,
+  "keepalive": true,
+  "measured_s": 0.028851278126239777,
+  "simple_s": 0.021537316013127566,
+  "slowstart_s": 0.021537316013127566
+ },
+ {
+  "rtt_ms": 20,
+  "rate_mbit": 0,
+  "s_up": 1000,
+  "s_down": 4000,
+  "keepalive": false,
+  "measured_s": 0.050357450963929296,
+  "simple_s": 0.04307463202625513,
+  "slowstart_s": 0.04307463202625513
+ },
+ {
+  "rtt_ms": 20,
+  "rate_mbit": 0,
+  "s_up": 16000,
+  "s_down": 16000,
+  "keepalive": true,
+  "measured_s": 0.02432636613957584,
+  "simple_s": 0.021537316013127566,
+  "slowstart_s": 0.0646119480393827
+ },
+ {
+  "rtt_ms": 20,
+  "rate_mbit": 0,
+  "s_up": 16000,
+  "s_down": 16000,
+  "keepalive": false,
+  "measured_s": 0.10696253809146583,
+  "simple_s": 0.04307463202625513,
+  "slowstart_s": 0.08614926405251026
+ },
+ {
+  "rtt_ms": 20,
+  "rate_mbit": 0,
+  "s_up": 128000,
+  "s_down": 32000,
+  "keepalive": true,
+  "measured_s": 0.03006516001187265,
+  "simple_s": 0.021537316013127566,
+  "slowstart_s": 0.10768658006563783
+ },
+ {
+  "rtt_ms": 20,
+  "rate_mbit": 0,
+  "s_up": 128000,
+  "s_down": 32000,
+  "keepalive": false,
+  "measured_s": 0.16225614701397717,
+  "simple_s": 0.04307463202625513,
+  "slowstart_s": 0.1292238960787654
+ },
+ {
+  "rtt_ms": 20,
+  "rate_mbit": 0,
+  "s_up": 2000,
+  "s_down": 256000,
+  "keepalive": true,
+  "measured_s": 0.02830123109742999,
+  "simple_s": 0.021537316013127566,
+  "slowstart_s": 0.10768658006563783
+ },
+ {
+  "rtt_ms": 20,
+  "rate_mbit": 0,
+  "s_up": 2000,
+  "s_down": 256000,
+  "keepalive": false,
+  "measured_s": 0.157019181875512,
+  "simple_s": 0.04307463202625513,
+  "slowstart_s": 0.1292238960787654
+ },
+ {
+  "rtt_ms": 20,
+  "rate_mbit": 50,
+  "s_up": 1000,
+  "s_down": 4000,
+  "keepalive": true,
+  "measured_s": 0.02599860285408795,
+  "simple_s": 0.022385316013127567,
+  "slowstart_s": 0.022385316013127567
+ },
+ {
+  "rtt_ms": 20,
+  "rate_mbit": 50,
+  "s_up": 1000,
+  "s_down": 4000,
+  "keepalive": false,
+  "measured_s": 0.05162417818792164,
+  "simple_s": 0.043922632026255126,
+  "slowstart_s": 0.043922632026255126
+ },
+ {
+  "rtt_ms": 20,
+  "rate_mbit": 50,
+  "s_up": 16000,
+  "s_down": 16000,
+  "keepalive": true,
+  "measured_s": 0.02859227918088436,
+  "simple_s": 0.026705316013127565,
+  "slowstart_s": 0.0651463480393827
+ },
+ {
+  "rtt_ms": 20,
+  "rate_mbit": 50,
+  "s_up": 16000,
+  "s_down": 16000,
+  "keepalive": false,
+  "measured_s": 0.09849760704673827,
+  "simple_s": 0.04824263202625514,
+  "slowstart_s": 0.08668366405251025
+ },
+ {
+  "rtt_ms": 20,
+  "rate_mbit": 50,
+  "s_up": 128000,
+  "s_down": 32000,
+  "keepalive": true,
+  "measured_s": 0.05253412504680455,
+  "simple_s": 0.047185316013127566,
+  "slowstart_s": 0.11480018006563783
+ },
+ {
+  "rtt_ms": 20,
+  "rate_mbit": 50,
+  "s_up": 128000,
+  "s_down": 32000,
+  "keepalive": false,
+  "measured_s": 0.1543321569915861,
+  "simple_s": 0.06872263202625513,
+  "slowstart_s": 0.13633749607876539
+ },
+ {
+  "rtt_ms": 20,
+  "rate_mbit": 50,
+  "s_up": 2000,
+  "s_down": 256000,
+  "keepalive": true,
+  "measured_s": 0.06713543785735965,
+  "simple_s": 0.06286531601312756,
+  "slowstart_s": 0.11426258006563783
+ },
+ {
+  "rtt_ms": 20,
+  "rate_mbit": 50,
+  "s_up": 2000,
+  "s_down": 256000,
+  "keepalive": false,
+  "measured_s": 0.16366728814318776,
+  "simple_s": 0.08440263202625513,
+  "slowstart_s": 0.1357998960787654
+ },
+ {
+  "rtt_ms": 100,
+  "rate_mbit": 2,
+  "s_up": 1000,
+  "s_down": 4000,
+  "keepalive": true,
+  "measured_s": 0.1281840750016272,
+  "simple_s": 0.12273731601312757,
+  "slowstart_s": 0.12273731601312757
+ },
+ {
+  "rtt_ms": 100,
+  "rate_mbit": 2,
+  "s_up": 1000,
+  "s_down": 4000,
+  "keepalive": false,
+  "measured_s": 0.23874249309301376,
+  "simple_s": 0.22427463202625514,
+  "slowstart_s": 0.22427463202625514
+ },
+ {
+  "rtt_ms": 100,
+  "rate_mbit": 2,
+  "s_up": 16000,
+  "s_down": 16000,
+  "keepalive": true,
+  "measured_s": 0.23933821893297136,
+  "simple_s": 0.23073731601312758,
+  "slowstart_s": 0.3179719480393827
+ },
+ {
+  "rtt_ms": 100,
+  "rate_mbit": 2,
+  "s_up": 16000,
+  "s_down": 16000,
+  "keepalive": false,
+  "measured_s": 0.4854877090547234,
+  "simple_s": 0.3322746320262551,
+  "slowstart_s": 0.41950926405251027
+ },
+ {
+  "rtt_ms": 100,
+  "rate_mbit": 2,
+  "s_up": 128000,
+  "s_down": 32000,
+  "keepalive": true,
+  "measured_s": 0.7830805249977857,
+  "simple_s": 0.7427373160131274,
+  "slowstart_s": 0.8299719480393826
+ },
+ {
+  "rtt_ms": 100,
+  "rate_mbit": 2,
+  "s_up": 128000,
+  "s_down": 32000,
+  "keepalive": false,
+  "measured_s": 1.0428891419433057,
+  "simple_s": 0.8442746320262551,
+  "slowstart_s": 0.9315092640525102
+ },
+ {
+  "rtt_ms": 100,
+  "rate_mbit": 2,
+  "s_up": 2000,
+  "s_down": 256000,
+  "keepalive": true,
+  "measured_s": 1.190594351151958,
+  "simple_s": 1.1347373160131276,
+  "slowstart_s": 1.178354632026255
+ },
+ {
+  "rtt_ms": 100,
+  "rate_mbit": 2,
+  "s_up": 2000,
+  "s_down": 256000,
+  "keepalive": false,
+  "measured_s": 1.4548603990115225,
+  "simple_s": 1.2362746320262552,
+  "slowstart_s": 1.2798919480393827
+ },
+ {
+  "rtt_ms": 100,
+  "rate_mbit": 50,
+  "s_up": 1000,
+  "s_down": 4000,
+  "keepalive": true,
+  "measured_s": 0.10640636598691344,
+  "simple_s": 0.10238531601312757,
+  "slowstart_s": 0.10238531601312757
+ },
+ {
+  "rtt_ms": 100,
+  "rate_mbit": 50,
+  "s_up": 1000,
+  "s_down": 4000,
+  "keepalive": false,
+  "measured_s": 0.21515264082700014,
+  "simple_s": 0.20392263202625513,
+  "slowstart_s": 0.20392263202625513
+ },
+ {
+  "rtt_ms": 100,
+  "rate_mbit": 50,
+  "s_up": 16000,
+  "s_down": 16000,
+  "keepalive": true,
+  "measured_s": 0.11112420191057026,
+  "simple_s": 0.10670531601312758,
+  "slowstart_s": 0.30514634803938273
+ },
+ {
+  "rtt_ms": 100,
+  "rate_mbit": 50,
+  "s_up": 16000,
+  "s_down": 16000,
+  "keepalive": false,
+  "measured_s": 0.43870623083785176,
+  "simple_s": 0.20824263202625515,
+  "slowstart_s": 0.4066836640525103
+ },
+ {
+  "rtt_ms": 100,
+  "rate_mbit": 50,
+  "s_up": 128000,
+  "s_down": 32000,
+  "keepalive": true,
+  "measured_s": 0.13031301414594054,
+  "simple_s": 0.12718531601312758,
+  "slowstart_s": 0.5148001800656379
+ },
+ {
+  "rtt_ms": 100,
+  "rate_mbit": 50,
+  "s_up": 128000,
+  "s_down": 32000,
+  "keepalive": false,
+  "measured_s": 0.6536079940851778,
+  "simple_s": 0.22872263202625515,
+  "slowstart_s": 0.6163374960787654
+ },
+ {
+  "rtt_ms": 100,
+  "rate_mbit": 50,
+  "s_up": 2000,
+  "s_down": 256000,
+  "keepalive": true,
+  "measured_s": 0.14764282410033047,
+  "simple_s": 0.14286531601312757,
+  "slowstart_s": 0.5142625800656379
+ },
+ {
+  "rtt_ms": 100,
+  "rate_mbit": 50,
+  "s_up": 2000,
+  "s_down": 256000,
+  "keepalive": false,
+  "measured_s": 0.6591945569962263,
+  "simple_s": 0.24440263202625515,
+  "slowstart_s": 0.6157998960787654
+ },
+ {
+  "rtt_ms": 300,
+  "rate_mbit": 0,
+  "s_up": 1000,
+  "s_down": 4000,
+  "keepalive": true,
+  "measured_s": 0.30666234414093196,
+  "simple_s": 0.30153731601312755,
+  "slowstart_s": 0.30153731601312755
+ },
+ {
+  "rtt_ms": 300,
+  "rate_mbit": 0,
+  "s_up": 1000,
+  "s_down": 4000,
+  "keepalive": false,
+  "measured_s": 0.6181643188465387,
+  "simple_s": 0.6030746320262551,
+  "slowstart_s": 0.6030746320262551
+ },
+ {
+  "rtt_ms": 300,
+  "rate_mbit": 0,
+  "s_up": 16000,
+  "s_down": 16000,
+  "keepalive": true,
+  "measured_s": 0.3104860819876194,
+  "simple_s": 0.30153731601312755,
+  "slowstart_s": 0.9046119480393826
+ },
+ {
+  "rtt_ms": 300,
+  "rate_mbit": 0,
+  "s_up": 16000,
+  "s_down": 16000,
+  "keepalive": false,
+  "measured_s": 1.2328010161872953,
+  "simple_s": 0.6030746320262551,
+  "slowstart_s": 1.2061492640525102
+ },
+ {
+  "rtt_ms": 300,
+  "rate_mbit": 0,
+  "s_up": 128000,
+  "s_down": 32000,
+  "keepalive": true,
+  "measured_s": 0.3137411118950695,
+  "simple_s": 0.30153731601312755,
+  "slowstart_s": 1.5076865800656378
+ },
+ {
+  "rtt_ms": 300,
+  "rate_mbit": 0,
+  "s_up": 128000,
+  "s_down": 32000,
+  "keepalive": false,
+  "measured_s": 1.8395618530921638,
+  "simple_s": 0.6030746320262551,
+  "slowstart_s": 1.8092238960787654
+ },
+ {
+  "rtt_ms": 300,
+  "rate_mbit": 0,
+  "s_up": 2000,
+  "s_down": 256000,
+  "keepalive": true,
+  "measured_s": 0.31360237300395966,
+  "simple_s": 0.30153731601312755,
+  "slowstart_s": 1.5076865800656378
+ },
+ {
+  "rtt_ms": 300,
+  "rate_mbit": 0,
+  "s_up": 2000,
+  "s_down": 256000,
+  "keepalive": false,
+  "measured_s": 1.851636481937021,
+  "simple_s": 0.6030746320262551,
+  "slowstart_s": 1.8092238960787652
+ },
+ {
+  "rtt_ms": 300,
+  "rate_mbit": 0.5,
+  "s_up": 1000,
+  "s_down": 4000,
+  "keepalive": true,
+  "measured_s": 0.3959391671232879,
+  "simple_s": 0.3863373160131276,
+  "slowstart_s": 0.3863373160131276
+ },
+ {
+  "rtt_ms": 300,
+  "rate_mbit": 0.5,
+  "s_up": 1000,
+  "s_down": 4000,
+  "keepalive": false,
+  "measured_s": 0.7155992221087217,
+  "simple_s": 0.6878746320262551,
+  "slowstart_s": 0.6878746320262551
+ },
+ {
+  "rtt_ms": 300,
+  "rate_mbit": 0.5,
+  "s_up": 16000,
+  "s_down": 16000,
+  "keepalive": true,
+  "measured_s": 0.8552489730063826,
+  "simple_s": 0.8183373160131275,
+  "slowstart_s": 0.9580519480393827
+ },
+ {
+  "rtt_ms": 300,
+  "rate_mbit": 0.5,
+  "s_up": 16000,
+  "s_down": 16000,
+  "keepalive": false,
+  "measured_s": 1.5587823868263513,
+  "simple_s": 1.1198746320262551,
+  "slowstart_s": 1.2595892640525101
+ },
+ {
+  "rtt_ms": 300,
+  "rate_mbit": 0.5,
+  "s_up": 128000,
+  "s_down": 32000,
+  "keepalive": true,
+  "measured_s": 3.275158709147945,
+  "simple_s": 2.8663373160131274,
+  "slowstart_s": 3.0060519480393824
+ },
+ {
+  "rtt_ms": 300,
+  "rate_mbit": 0.5,
+  "s_up": 128000,
+  "s_down": 32000,
+  "keepalive": false,
+  "measured_s": 3.7014805381186306,
+  "simple_s": 3.1678746320262547,
+  "slowstart_s": 3.3075892640525097
+ },
+ {
+  "rtt_ms": 300,
+  "rate_mbit": 0.5,
+  "s_up": 2000,
+  "s_down": 256000,
+  "keepalive": true,
+  "measured_s": 4.798984401859343,
+  "simple_s": 4.434337316013127,
+  "slowstart_s": 4.5041946320262545
+ },
+ {
+  "rtt_ms": 300,
+  "rate_mbit": 0.5,
+  "s_up": 2000,
+  "s_down": 256000,
+  "keepalive": false,
+  "measured_s": 5.298864250071347,
+  "simple_s": 4.735874632026255,
+  "slowstart_s": 4.805731948039383
+ },
+ {
+  "rtt_ms": 200,
+  "rate_mbit": 0.5,
+  "s_up": 1000,
+  "s_down": 4000,
+  "keepalive": true,
+  "measured_s": 0.2974081349093467,
+  "simple_s": 0.28633731601312756,
+  "slowstart_s": 0.28633731601312756
+ },
+ {
+  "rtt_ms": 200,
+  "rate_mbit": 0.5,
+  "s_up": 1000,
+  "s_down": 4000,
+  "keepalive": false,
+  "measured_s": 0.506349132861942,
+  "simple_s": 0.48787463202625514,
+  "slowstart_s": 0.48787463202625514
+ },
+ {
+  "rtt_ms": 200,
+  "rate_mbit": 0.5,
+  "s_up": 16000,
+  "s_down": 16000,
+  "keepalive": true,
+  "measured_s": 0.9099457750562578,
+  "simple_s": 0.7183373160131277,
+  "slowstart_s": 0.7183373160131277
+ },
+ {
+  "rtt_ms": 200,
+  "rate_mbit": 0.5,
+  "s_up": 16000,
+  "s_down": 16000,
+  "keepalive": false,
+  "measured_s": 1.114766076207161,
+  "simple_s": 0.9198746320262552,
+  "slowstart_s": 0.9198746320262552
+ },
+ {
+  "rtt_ms": 200,
+  "rate_mbit": 0.5,
+  "s_up": 128000,
+  "s_down": 32000,
+  "keepalive": true,
+  "measured_s": 2.998614586191252,
+  "simple_s": 2.7663373160131277,
+  "slowstart_s": 2.7663373160131277
+ },
+ {
+  "rtt_ms": 200,
+  "rate_mbit": 0.5,
+  "s_up": 128000,
+  "s_down": 32000,
+  "keepalive": false,
+  "measured_s": 3.1705507449805737,
+  "simple_s": 2.9678746320262546,
+  "slowstart_s": 2.9678746320262546
+ },
+ {
+  "rtt_ms": 200,
+  "rate_mbit": 0.5,
+  "s_up": 2000,
+  "s_down": 256000,
+  "keepalive": true,
+  "measured_s": 4.546334872953594,
+  "simple_s": 4.334337316013127,
+  "slowstart_s": 4.334337316013127
+ },
+ {
+  "rtt_ms": 200,
+  "rate_mbit": 0.5,
+  "s_up": 2000,
+  "s_down": 256000,
+  "keepalive": false,
+  "measured_s": 4.931035446934402,
+  "simple_s": 4.535874632026255,
+  "slowstart_s": 4.535874632026255
+ },
+ {
+  "rtt_ms": 100,
+  "rate_mbit": 10,
+  "s_up": 1000,
+  "s_down": 4000,
+  "keepalive": true,
+  "measured_s": 0.11118723987601697,
+  "simple_s": 0.10577731601312758,
+  "slowstart_s": 0.10577731601312758
+ },
+ {
+  "rtt_ms": 100,
+  "rate_mbit": 10,
+  "s_up": 1000,
+  "s_down": 4000,
+  "keepalive": false,
+  "measured_s": 0.2135550118982792,
+  "simple_s": 0.20731463202625514,
+  "slowstart_s": 0.20731463202625514
+ },
+ {
+  "rtt_ms": 100,
+  "rate_mbit": 10,
+  "s_up": 16000,
+  "s_down": 16000,
+  "keepalive": true,
+  "measured_s": 0.13606406701728702,
+  "simple_s": 0.12737731601312757,
+  "slowstart_s": 0.30728394803938275
+ },
+ {
+  "rtt_ms": 100,
+  "rate_mbit": 10,
+  "s_up": 16000,
+  "s_down": 16000,
+  "keepalive": false,
+  "measured_s": 0.44385296991094947,
+  "simple_s": 0.22891463202625512,
+  "slowstart_s": 0.4088212640525103
+ },
+ {
+  "rtt_ms": 100,
+  "rate_mbit": 10,
+  "s_up": 128000,
+  "s_down": 32000,
+  "keepalive": true,
+  "measured_s": 0.23971418710425496,
+  "simple_s": 0.22977731601312756,
+  "slowstart_s": 0.5432545800656379
+ },
+ {
+  "rtt_ms": 100,
+  "rate_mbit": 10,
+  "s_up": 128000,
+  "s_down": 32000,
+  "keepalive": false,
+  "measured_s": 0.694257359020412,
+  "simple_s": 0.33131463202625516,
+  "slowstart_s": 0.6447918960787654
+ },
+ {
+  "rtt_ms": 100,
+  "rate_mbit": 10,
+  "s_up": 2000,
+  "s_down": 256000,
+  "keepalive": true,
+  "measured_s": 0.3236886679660529,
+  "simple_s": 0.3081773160131276,
+  "slowstart_s": 0.5405665800656378
+ },
+ {
+  "rtt_ms": 100,
+  "rate_mbit": 10,
+  "s_up": 2000,
+  "s_down": 256000,
+  "keepalive": false,
+  "measured_s": 0.7358328208792955,
+  "simple_s": 0.40971463202625513,
+  "slowstart_s": 0.6421038960787654
+ },
+ {
+  "rtt_ms": 300,
+  "rate_mbit": 10,
+  "s_up": 1000,
+  "s_down": 4000,
+  "keepalive": true,
+  "measured_s": 0.30789957591332495,
+  "simple_s": 0.3057773160131275,
+  "slowstart_s": 0.3057773160131275
+ },
+ {
+  "rtt_ms": 300,
+  "rate_mbit": 10,
+  "s_up": 1000,
+  "s_down": 4000,
+  "keepalive": false,
+  "measured_s": 0.6119488419499248,
+  "simple_s": 0.6073146320262551,
+  "slowstart_s": 0.6073146320262551
+ },
+ {
+  "rtt_ms": 300,
+  "rate_mbit": 10,
+  "s_up": 16000,
+  "s_down": 16000,
+  "keepalive": true,
+  "measured_s": 0.3332643511239439,
+  "simple_s": 0.32737731601312753,
+  "slowstart_s": 0.9072839480393826
+ },
+ {
+  "rtt_ms": 300,
+  "rate_mbit": 10,
+  "s_up": 16000,
+  "s_down": 16000,
+  "keepalive": false,
+  "measured_s": 1.232369352830574,
+  "simple_s": 0.6289146320262552,
+  "slowstart_s": 1.2088212640525102
+ },
+ {
+  "rtt_ms": 300,
+  "rate_mbit": 10,
+  "s_up": 128000,
+  "s_down": 32000,
+  "keepalive": true,
+  "measured_s": 0.44082019687630236,
+  "simple_s": 0.4297773160131276,
+  "slowstart_s": 1.5432545800656376
+ },
+ {
+  "rtt_ms": 300,
+  "rate_mbit": 10,
+  "s_up": 128000,
+  "s_down": 32000,
+  "keepalive": false,
+  "measured_s": 1.8930268671829253,
+  "simple_s": 0.7313146320262551,
+  "slowstart_s": 1.8447918960787653
+ },
+ {
+  "rtt_ms": 300,
+  "rate_mbit": 10,
+  "s_up": 2000,
+  "s_down": 256000,
+  "keepalive": true,
+  "measured_s": 0.5232085718307644,
+  "simple_s": 0.5081773160131275,
+  "slowstart_s": 1.5405665800656378
+ },
+ {
+  "rtt_ms": 300,
+  "rate_mbit": 10,
+  "s_up": 2000,
+  "s_down": 256000,
+  "keepalive": false,
+  "measured_s": 1.927220743848011,
+  "simple_s": 0.8097146320262552,
+  "slowstart_s": 1.8421038960787655
+ },
+ {
+  "rtt_ms": 50,
+  "rate_mbit": 0.5,
+  "s_up": 1000,
+  "s_down": 4000,
+  "keepalive": true,
+  "measured_s": 0.15287430700846016,
+  "simple_s": 0.13633731601312757,
+  "slowstart_s": 0.13633731601312757
+ },
+ {
+  "rtt_ms": 50,
+  "rate_mbit": 0.5,
+  "s_up": 1000,
+  "s_down": 4000,
+  "keepalive": false,
+  "measured_s": 0.2051295330747962,
+  "simple_s": 0.18787463202625515,
+  "slowstart_s": 0.18787463202625515
+ },
+ {
+  "rtt_ms": 50,
+  "rate_mbit": 0.5,
+  "s_up": 16000,
+  "s_down": 16000,
+  "keepalive": true,
+  "measured_s": 0.6529891830869019,
+  "simple_s": 0.5683373160131275,
+  "slowstart_s": 0.5683373160131275
+ },
+ {
+  "rtt_ms": 50,
+  "rate_mbit": 0.5,
+  "s_up": 16000,
+  "s_down": 16000,
+  "keepalive": false,
+  "measured_s": 0.7105124068912119,
+  "simple_s": 0.6198746320262551,
+  "slowstart_s": 0.6198746320262551
+ },
+ {
+  "rtt_ms": 50,
+  "rate_mbit": 0.5,
+  "s_up": 128000,
+  "s_down": 32000,
+  "keepalive": true,
+  "measured_s": 2.8468098279554397,
+  "simple_s": 2.6163373160131274,
+  "slowstart_s": 2.6163373160131274
+ },
+ {
+  "rtt_ms": 50,
+  "rate_mbit": 0.5,
+  "s_up": 128000,
+  "s_down": 32000,
+  "keepalive": false,
+  "measured_s": 2.902366300113499,
+  "simple_s": 2.6678746320262547,
+  "slowstart_s": 2.6678746320262547
+ },
+ {
+  "rtt_ms": 50,
+  "rate_mbit": 0.5,
+  "s_up": 2000,
+  "s_down": 256000,
+  "keepalive": true,
+  "measured_s": 4.394561843946576,
+  "simple_s": 4.184337316013127,
+  "slowstart_s": 4.184337316013127
+ },
+ {
+  "rtt_ms": 50,
+  "rate_mbit": 0.5,
+  "s_up": 2000,
+  "s_down": 256000,
+  "keepalive": false,
+  "measured_s": 4.638179076137021,
+  "simple_s": 4.235874632026255,
+  "slowstart_s": 4.235874632026255
+ }
+]
