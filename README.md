@@ -1,5 +1,7 @@
 # QoS-aware orchestration of local, edge and cloud LLMs
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23093412.svg)](https://doi.org/10.5281/zenodo.23093412)
+
 Code, measurement logs and analysis for the paper *QoS-aware orchestration of local and cloud large language models
 in distributed information systems* (O. Kholodniak).
 
